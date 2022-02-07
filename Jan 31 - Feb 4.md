@@ -7,3 +7,5 @@ S.No        Date          Name                               Topic
 3       03.02.2022     Gokulnath M                 Repacking --->  Using BOM
 
 4       04.02.2022     Gokul C                     Authorization Rule
+
+5       07.02.2022     Hiraniya S                  block a site from user,scheduler,Bom
